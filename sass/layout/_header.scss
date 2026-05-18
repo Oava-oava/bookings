@@ -1,0 +1,6 @@
+@use '../abstract' as a;
+
+.header {
+  background-color: a.$color-primary;
+  height: 100px;
+}
